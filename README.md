@@ -8,9 +8,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Node.js | Javascript | Nestjs  
+- 💻 &nbsp; Node.js | Javascript | Nestjs | Typescript 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React 
-- 🛢 &nbsp; MySQL
+- 🛢 &nbsp; MySQL | MongoDb
 - 🔧 &nbsp; Visual Studio code | Git
 
 <br>
