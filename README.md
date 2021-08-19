@@ -9,9 +9,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Node.js | Javascript | Nestjs | Typescript 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React/Nextjs 
 - 🛢 &nbsp; MySQL | MongoDb
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git[gitflow] | Docker[docker-compose]
 
 <br>
 
