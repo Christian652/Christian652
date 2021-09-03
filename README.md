@@ -1,15 +1,15 @@
 <h2> Hey there! I'm Christian. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Reactjs Application Development
+- 🔭 &nbsp; I’m currently learning React/Nextjs Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Node.js developer.
+- 💼 &nbsp; Backend Node.js developer.
 - 🌱 &nbsp; Enthusiast in architecture, clean code and agility. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Node.js | Javascript | Nestjs | Typescript | Shell 
-- 🌐 &nbsp; HTML | CSS | Sass | JavaScript | Bootstrap | React/Nextjs 
+- 🌐 &nbsp; HTML | CSS | Sass | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | MongoDb
 - 🔧 &nbsp; Visual Studio code | Git[gitflow] | Docker[docker-compose] | GitKraken
 
